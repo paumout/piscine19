@@ -1,0 +1,5 @@
+Credentials cache: API:88771E5D-2AF8-48BB-B42A-7BCF1B953815
+        Principal: pmoutafi@S19.BE
+
+  Issued                Expires               Principal
+Sep  8 18:19:00 2020  Sep  9 04:19:00 2020  krbtgt/S19.BE@S19.BE
