@@ -5,6 +5,6 @@ void ft_putchar(char c)
 }
 int main ()
 {
-	ft_putchar();
+	ft_putchar('k');
 	return 0;
 }
